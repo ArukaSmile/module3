@@ -1,0 +1,33 @@
+#header_nav {
+    background-color: #adb5bd;
+}
+
+h1 {
+    padding-left: 20px;
+}
+
+button {
+    background-color: balck;
+}
+
+#buttonIcon {
+    margin-right: 20px;
+    border: 1px solid black;
+}
+
+ul {
+    border: 1px solid black;
+    background-color: white;
+}
+
+h2 {
+    padding: 20px;
+}
+
+section {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #e3f2fd;
+}
